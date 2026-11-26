@@ -1,0 +1,6 @@
+{
+  "name": "PustakaRuang",
+  "description": "Perpustakaan digital minimalis dengan klasifikasi DDC ramah pembaca dan tracking peminjaman baca di tempat maupun bawa pulang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
